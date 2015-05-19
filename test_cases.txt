@@ -1,0 +1,21 @@
+header.cf.header div.nav-bar div.lc form.search-form fieldset input.search-field
+div.fluid.flush.homepage.split div.flush.lc.lc-island div.l-two-col div.l-main-container div.l-main ul#river1.lc-padding.river li#905418.river-block div.block.block-thumb div.block-content p.excerpt
+30
+div div#cnn_maincntnr div.cnn_contentarea.cnn_shdcamtt12010.cnn_shdcamtt1l250.cnn_t1lo_bnews.cnn_t1lo_refresh div#cnn_maintopt1 div#cnn_maint1lftf.breaking div#cnn_maintt1imgbul div.cnn_main10t1cntnt div.cnn_main10t1lcntr div.cnn_main10t1sbbin2c ul.cnn_bulletbin li.c_hpbullet4 a
+div div#cnn_maincntnr div.cnn_contentarea.cnn_shdcamtt12010.cnn_shdcamtt1l250.cnn_t1lo_bnews.cnn_t1lo_refresh div#cnn_maintopt1 div#cnn_maint1lftf.breaking div#cnn_maintt1imgbul div.cnn_main10t1cntnt div.cnn_main10t1lcntr div div.cnn_main10t1stxt div#cnn_tc_t1_rich_text div.cnn_two_column_t_rich_text
+9
+div div#cnn_maincntnr div.cnn_contentarea.cnn_shdcamtt12010.cnn_shdcamtt1l250.cnn_t1lo_bnews.cnn_t1lo_refresh div#cnn_maintopt1 div#cnn_maintoplive div.cnn_mc2cntr div.cnn_mc23x1cnntr div#cnn_mc2_large1.cnn_mc2_img_right.cnn_mc2_large div div.cnn_mc2_text_left div.cnn_mc2_blurb a
+div div#cnn_maincntnr div.cnn_contentarea.cnn_shdcamtt12010.cnn_shdcamtt1l250.cnn_t1lo_bnews.cnn_t1lo_refresh div#cnn_maintopprofile div#on_tv.cnn_hppersonal div#cnn_pmtvmodule div.cnn_hppersonalfeature div.cnn_pmtvmodddown.cnn_tsbnav form select
+16
+div#shell div#page.active.tabContent div#main div.baseLayout.wrap div.column.last div.layout.spanAB div.abColumn.column div.layout.module.wideB div.aColumn.column.opening div.columnGroup div.story p.summary
+div#page.active.tabContent div#main div.baseLayout.wrap div.column.last div.layout.spanAB div.abColumn.column div.layout.module.wideB div.aColumn.column.opening div.columnGroup.first div.story p.summary
+2
+div#shell div#page.active.tabContent div#toolbar div#toolbarSearchContainer.toolbarSearchContainer-withad div#toolbarSearch.toolbarSearchActive div.inlineSearchControl form#searchForm input#hpSearchQuery.text
+div#shell div#page.active.tabContent div#toolbar div#toolbarSearchContainer.toolbarSearchContainer-withad div#toolbarSearch div.inlineSearchControl form#searchForm input#hpSearchQuery.text
+1
+header.mh div.mh-stripe div.mh-stripe-wrap ul.mh-user-menu li.last a.omniture-tagged.omniture-tagged-291.show-login
+div.ec-overlay div.login-wrap form#user-login.clearfix.context-user_login.ec-social.user-form div div#edit-name-wrapper.clearfix.form-item input#edit-name.form-email.form-text.required
+24
+div#page.container div#columns.clearfix div#leadspot.clearfix.grid-16 div#block-ec_homepage-ec_homepage_superhero.block.block-ec_homepage div.clearfix.content div#superhero.clearfix div.hero-superhero ul#hero.hero-multiple li.selected div.hero-item.hero-item-4 a.hero-tab.omniture-tagged.omniture-tagged-127 p.headline
+div#page.container div#columns.clearfix div#column-content.clearfix.grid-10.grid-first div.grid-7.grid-first.push-3 div#homepage-center-inner section.news-package.typog-package article a.omniture-tagged.omniture-tagged-20 div h2.headline
+25
